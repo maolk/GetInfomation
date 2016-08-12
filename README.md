@@ -1,0 +1,2 @@
+# GetInfomation
+imd For GET
